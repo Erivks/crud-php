@@ -8,6 +8,6 @@
     ],
     "description": "Projeto crud e mvc para estudo do php",
     "require": {
-        "twig/twig": "^2.11"
+        "twig/twig": "^3.11"
     }
 }
